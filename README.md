@@ -27,6 +27,10 @@
 
 ###
 
+<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/831325411032945948/A4C7681FDBC4CFB6D165E6B29A78DEA6CFC9C453/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/TrashDono/TrashDono/output/snake.svg" alt="Snake animation" />
